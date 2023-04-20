@@ -10,3 +10,9 @@
   * [4. 데이터 API 요청처리](js-spa/4-api.md)
   * [5. UI 구현](js-spa/5-ui.md)
   * [6. 마치며](js-spa/6-outro.md)
+
+* [이펙티브 타입스크립트](effective-typescript/README.md)
+  * [1. 타입스크립트 알아보기](effective-typescript/1.md)
+  * [2. 타입스크립트의 타입 시스템](effective-typescript/2.md)
+  * [3. 타입 추론](effective-typescript/3.md)
+  * [4. 타입 설계](effective-typescript/4.md)
